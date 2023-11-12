@@ -1,7 +1,1 @@
-num1=10;
-num2=50;
-num=20;
-
-z= x+y;
-
-sub=x-y
+naqueeb
